@@ -11,7 +11,7 @@ API untuk cek pajak kendaraan bermotor di wilayah Jawa Tengah dan Daerah Istimew
 | Nama Wilayah | Kode | Status |
 | --- | --- | --- |
 | D.I.Yogyakarta | `diy` | :white_check_mark:
-| Jawa Tengah | `jateng` | :white_check_mark:
+| Jawa Tengah | `jateng` | :warning:
 | Jawa Timur | `jatim` | :white_check_mark:
 
 ### Example
