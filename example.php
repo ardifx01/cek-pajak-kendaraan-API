@@ -1,7 +1,7 @@
 <?php
 
 $nopol = 'ab0000xy';
-$url = 'https://cekpajak.stpn.xyz/api/v1/diy/' . $nopol;
+$url = 'https://cekpajak.bystpn.web.id/api/diy/' . $nopol;
 
 $data = file_get_contents($url);
 
