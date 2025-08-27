@@ -18,7 +18,7 @@ GET /api/:id/{nomor_kendaraan}
 ### 📝 Parameter URL
 | Parameter | Tipe | Deskripsi |
 |-----------|------|-----------|
-| provinsi | string | id provinsi (jabar, diy, banten) |
+| :id | string | id provinsi (jabar, diy, banten) |
 | nomor_kendaraan | string | Nomor kendaraan (tanpa spasi) |
 
 ## 📦 Response
